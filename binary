@@ -1,0 +1,8 @@
+a=3
+b=9
+print(a&b) #output:
+print(a|b) #output:
+print(a^b) #output:
+print(~a) #output:
+print(a<<1) #output:
+print(a>>1) #output:
